@@ -1,0 +1,120 @@
+{
+  "version": 1,
+  "base_track": "Marsh",
+  "base_artist": "Eminem",
+  "createdAt": "2025-12-01T12:28:47.201631Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Marsh",
+      "artist": "Eminem",
+      "has_synced": true,
+      "path": "select/01_Marsh_Eminem.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "I Got You (feat Lola Marsh)",
+      "artist": "Cocoon feat. Lola Marsh",
+      "has_synced": true,
+      "path": "select/02_I_Got_You_(feat_Lola_Marsh)_Cocoon_feat._Lola_Marsh.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Marsh Mellow Field",
+      "artist": "King's X",
+      "has_synced": false,
+      "path": "select/03_Marsh_Mellow_Field_King's_X.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "The Great Marsh",
+      "artist": "Camel",
+      "has_synced": false,
+      "path": "select/04_The_Great_Marsh_Camel.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Into the Black Marsh",
+      "artist": "Kalmah",
+      "has_synced": true,
+      "path": "select/05_Into_the_Black_Marsh_Kalmah.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Marsh Witch Vision",
+      "artist": "The Mountain Goats",
+      "has_synced": true,
+      "path": "select/06_Marsh_Witch_Vision_The_Mountain_Goats.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Summer Night (with Lola Marsh)",
+      "artist": "Garden City Movement feat. Lola Marsh",
+      "has_synced": false,
+      "path": "select/07_Summer_Night_(with_Lola_Marsh)_Garden_City_Movement_feat._Lola_Marsh.txt"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Bright Lights Bigger City (Produced By Ben H. Allen Co-Produced By Graham Marsh)",
+      "artist": "Cee Lo Green",
+      "has_synced": true,
+      "path": "select/08_Bright_Lights_Bigger_City_(Produced_By_Ben_H._Allen_Co-Produced_By_Graham_Marsh)_Cee_Lo_Green.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Marsh [Explicit]",
+      "artist": "Eminem",
+      "has_synced": true,
+      "path": "select/09_Marsh_[Explicit]_Eminem.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Marshmallow day",
+      "artist": "Mr.Children",
+      "has_synced": false,
+      "path": "select/pl_01_Marshmallow_day_Mr.Children.txt"
+    },
+    {
+      "id": "petitlyrics_2",
+      "source": "petitlyrics",
+      "title": "Marshmallow Love",
+      "artist": "Mr.Children",
+      "has_synced": false,
+      "path": "select/pl_02_Marshmallow_Love_Mr.Children.txt"
+    },
+    {
+      "id": "petitlyrics_3",
+      "source": "petitlyrics",
+      "title": "Marshmallow day",
+      "artist": "Mr.Children",
+      "has_synced": false,
+      "path": "select/pl_03_Marshmallow_day_Mr.Children.txt"
+    },
+    {
+      "id": "petitlyrics_4",
+      "source": "petitlyrics",
+      "title": "marshmallow justice",
+      "artist": "Mr.Children",
+      "has_synced": false,
+      "path": "select/pl_04_marshmallow_justice_Mr.Children.txt"
+    },
+    {
+      "id": "petitlyrics_5",
+      "source": "petitlyrics",
+      "title": "marshmallow justice",
+      "artist": "Mr.Children",
+      "has_synced": false,
+      "path": "select/pl_05_marshmallow_justice_Mr.Children.txt"
+    }
+  ]
+}
